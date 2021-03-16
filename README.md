@@ -6,6 +6,14 @@
   
   
   
+# 👨‍💻 Anggota
+| First Header  | Nama Anggota |  NIM  |
+| ------------- | ------------ | ----- |
+| 1 | Rinaldy Ansyah Pramana Lubis  | G64180027 |
+| 2 | Habieb Al-Rahman Habiebie Idrus  | G64180043 |
+| 3 | Bayu Tri Atmojo  | G64180092 |
+| 4 | Linggar Asmara  | G64180099 |
+
 
   
 # Sekilas Tentang
