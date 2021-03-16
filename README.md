@@ -39,7 +39,7 @@
     $ sudo apt-get install php-gd php-mcrypt php-mbstring php-xml php-ssh2 php-curl php-zip php-intl
     ```
 
-3. download TextPattern ke direktori kita. 
+3. Download TextPattern ke direktori kita. 
     ```
     $ wget https://textpattern.com/file_download/107/textpattern-4.8.4.zip
     ```
