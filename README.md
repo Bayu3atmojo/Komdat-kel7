@@ -111,7 +111,7 @@
 [`^ kembali ke atas ^`](#)
 Cara pemakaian Textpattern ini sangat mudah, karena aplikasi ini telah menyediakan interface yang mudah dimengerti. Berikut untuk lebih jelasnya :
 - Login menggunakan akun yang telah dibuat sebelumnya
-
+![1]<img width="264" alt="t1" src="https://user-images.githubusercontent.com/60084323/111364005-4dfb6d80-86c3-11eb-958b-92cf71b37c10.png">
 - Setelah login, kita akan masuk ke halaman Dashboard. Disini kita dapat menulis konten berupa artikel seperti contohnya content organization, date and time, dan lain sebagainya
 ![2](https://user-images.githubusercontent.com/74884859/111342444-0cf85e80-86ad-11eb-8496-e2b9209cd6ed.png)
 
