@@ -121,7 +121,7 @@ Cara pemakaian Textpattern ini sangat mudah, karena aplikasi ini telah menyediak
 ![3](https://user-images.githubusercontent.com/74884859/111344239-c60b6880-86ae-11eb-9cd2-c1238b1d82ec.png)
 
 - Pada sidebar terdapat **sort and display** yang berguna untuk menentukan status, section, maupun overide form dari artikel yang telah dibuat. Selain itu, dibawah bar sort and display juga terdapat berbagai macam opsi yang dapat dipilih seperti date and time, kategori, meta, dan lain sebagainya.
-
+<img width="228" alt="t3" src="https://user-images.githubusercontent.com/60084323/111364014-4fc53100-86c3-11eb-8827-6d400a613454.png">  
  
 
 
