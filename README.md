@@ -37,6 +37,7 @@
     $ sudo apt-get install libapache2-mod-php
     $ sudo apt-get install php-mysql
     $ sudo apt-get install php-gd php-mcrypt php-mbstring php-xml php-ssh2 php-curl php-zip php-intl
+    $ sudo service apache2 restart
     ```
 
 3. Download TextPattern ke direktori kita. 
