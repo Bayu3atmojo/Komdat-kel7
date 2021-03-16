@@ -1,4 +1,5 @@
 <h1> Aplikasi Web "Microweber" </h1>
+<h1 align="center"><img src="https://images-platform.99static.com/Osfdf6gAS-6ZIH6H0ZEw-qPijZs=/500x500/top/smart/99designs-contests-attachments/25/25852/attachment_25852942"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
@@ -89,14 +90,26 @@
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
-Microweber adalah salah satu sistem Manajemen Konten dan Pembuat Situs Web _(Content Management System and Website Builder)_ dengan lisensi _open-source_. Microweber dibuat dengan bahasa pemrograman 'PHP' dan _framework_ 'Laravel 5'. Aplikasi ini memungkinkan pengguna untuk membuat konten _E-Commerce_ dengan cepat. Aplikasi ini juga memiliki fitur Edit Langsung yang memungkinkan pengguna untuk melihat hasil edit mereka seperti yang akan ditampilkan. Situs ini diluncurkan dalam versi Beta pada April 2015 di Sofia, Bulgaria. Proyek Microweber juga masuk dalam 100 organisasi startup teratas di Eropa untuk 2015/2017/2018, menurut yayasan festival WEBIT. Beberapa kelebihan dari Microweber yaitu :
+
+**Microweber** adalah salah satu sistem Manajemen Konten dan Pembuat Situs Web _(Content Management System and Website Builder)_ dengan lisensi _open-source_. **Microweber** dibuat dengan bahasa pemrograman 'PHP' dan _framework_ 'Laravel 5'. Aplikasi ini memungkinkan pengguna untuk membuat konten _E-Commerce_ dengan cepat. Aplikasi ini juga memiliki fitur Edit Langsung yang memungkinkan pengguna untuk melihat hasil edit mereka seperti yang akan ditampilkan. Situs ini diluncurkan dalam versi Beta pada April 2015 di Sofia, Bulgaria. Proyek Microweber juga masuk dalam 100 organisasi startup teratas di Eropa untuk 2015/2017/2018, menurut yayasan festival WEBIT. Beberapa kelebihan dari Microweber yaitu :
 - Kemudahan untuk menggunakan _drag & drop_.
 - Admin panel yang _powerfull_.
 - Memiliki fitur _real time editing_ dan _dynamic layout_ yang sangat mempermudah pengguna.
 - Adanya support yang lengkap, baik _community_ atau _premium support_.
+- Dilengkapi fitur _statistics_ agar pengguna dapat melihat _insight_ dan perkembangan dari _website_ mereka.
+- Memiliki berbagai macam _tepmlate design_ yang menarik. 
 - Platform ini juga memiliki fitur _updates & privacy_ sehingga data pengguna aman.
+
+Selain beberapa kelebihan di atas, Microweber juga memiliki beberapa kelemahan, diantaranya :
+- Penggunaan fitur atau modul yang lengkap menyebakan proses loading dari aplikasi ini menjadi sangat lambat.
+- Jika dilihat dari aplikasi sejenis, yaitu [**Prestashop**](https://www.prestashop.com/), modul atau _plugin_ yang dimiliki oleh **Microweber** lebih sedikit.
+- Proses instalasi yang lebih sulit karena selain menggunakan bahasa 'PHP', **Microweber** juga menggunakan framework laravel. 
 
 # Referensi
 [`^ kembali ke atas ^`](#)
 
-- https://microweber.org
+1. [How to Log Into a VPS with PuTTY on Windows](https://www.digitalocean.com/community/tutorials/how-to-log-into-a-vps-with-putty-windows-users) - DigitalOcean
+2. [Kelebihan Microweber](https://www.niagahoster.co.id/blog/cms-laravel-terbaik/#5_Microweber) - Niaga Hoster
+3. [Microweber](https://microweber.com) - Microweber
+4. [Microweber Features](https://microweber.com/features) - Microweber
+5. 
