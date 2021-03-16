@@ -1,5 +1,5 @@
-<h1> Aplikasi Web "Microweber" </h1>
-<h1 align="center"><img src="https://images-platform.99static.com/Osfdf6gAS-6ZIH6H0ZEw-qPijZs=/500x500/top/smart/99designs-contests-attachments/25/25852/attachment_25852942"></h1>
+<h1> Aplikasi Web "TextPattern" </h1>
+<h1 align="center"><img src="https://andy-carter.com/files/cache/397/9ff0291dcee547b40660934ec4fceb44/txp.png"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
