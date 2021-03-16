@@ -122,6 +122,11 @@ Cara pemakaian Textpattern ini sangat mudah, karena aplikasi ini telah menyediak
 
 - Pada sidebar terdapat **sort and display** yang berguna untuk menentukan status, section, maupun overide form dari artikel yang telah dibuat. Selain itu, dibawah bar sort and display juga terdapat berbagai macam opsi yang dapat dipilih seperti date and time, kategori, meta, dan lain sebagainya.
 <img width="228" alt="t3" src="https://user-images.githubusercontent.com/60084323/111364014-4fc53100-86c3-11eb-8827-6d400a613454.png">  
+
+- Pada topbar terdapat tab "Presentation" yang berisi beberapa panel seperti panel section dibawah ini. **Panel section** ini berguna agar pengguna dapat melihat daftar list section/bagian dan fungsionalitasnya dan juga mengelolanya.
+<img width="938" alt="t4" src="https://user-images.githubusercontent.com/60084323/111366702-6de06080-86c6-11eb-8b9b-321ba144d70b.png">  
+- Selain panel section, ada juga **panel style** yang dapat mengubah style atau tampilan menggunakan css.
+
  
 
 
