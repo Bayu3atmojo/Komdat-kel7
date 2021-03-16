@@ -109,13 +109,15 @@
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
-Cara pemakaian Textpattern ini sangat mudah, karena aplikasi ini telah menyediakan interface yang mudah dimengerti. Berikut untuk lebih jelasnya :
-- Login menggunakan akun yang telah dibuat sebelumnya
-![1]<img width="264" alt="t1" src="https://user-images.githubusercontent.com/60084323/111364005-4dfb6d80-86c3-11eb-958b-92cf71b37c10.png">
-- Setelah login, kita akan masuk ke halaman Dashboard. Disini kita dapat menulis konten berupa artikel seperti contohnya content organization, date and time, dan lain sebagainya
-![2](https://user-images.githubusercontent.com/74884859/111342444-0cf85e80-86ad-11eb-8496-e2b9209cd6ed.png)
+Cara pemakaian Textpattern ini sangat mudah, karena aplikasi ini telah menyediakan interface yang mudah dimengerti. Berikut untuk lebih jelasnya :  
 
-- apabila kita mengklik "article", maka akan keluar tampilan seperti dibawah ini. Tampilan ini digunakan untuk menulis maupun membuat sebuah konten dimana terdapat title, dan juga body
+- Login menggunakan akun yang telah dibuat sebelumnya  
+<img width="264" alt="t1" src="https://user-images.githubusercontent.com/60084323/111364005-4dfb6d80-86c3-11eb-958b-92cf71b37c10.png">  
+
+- Setelah login, kita akan masuk ke halaman Dashboard. Disini kita dapat menulis konten berupa artikel seperti contohnya content organization, date and time, dan lain sebagainya
+![2](https://user-images.githubusercontent.com/74884859/111342444-0cf85e80-86ad-11eb-8496-e2b9209cd6ed.png)  
+
+- apabila kita mengklik "article", maka akan keluar tampilan seperti dibawah ini. Tampilan ini digunakan untuk menulis maupun membuat sebuah konten dimana terdapat title, dan juga body untuk membuat artikel baru, apabila sudah selesai membuat, klik publish yang terdapat pada kanan atas
 ![3](https://user-images.githubusercontent.com/74884859/111344239-c60b6880-86ae-11eb-9cd2-c1238b1d82ec.png)
 
 - Pada sidebar terdapat **sort and display** yang berguna untuk menentukan status, section, maupun overide form dari artikel yang telah dibuat. Selain itu, dibawah bar sort and display juga terdapat berbagai macam opsi yang dapat dipilih seperti date and time, kategori, meta, dan lain sebagainya.
