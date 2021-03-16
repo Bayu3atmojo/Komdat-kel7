@@ -125,7 +125,14 @@ Cara pemakaian Textpattern ini sangat mudah, karena aplikasi ini telah menyediak
 
 - Pada topbar terdapat tab "Presentation" yang berisi beberapa panel seperti panel section dibawah ini. **Panel section** ini berguna agar pengguna dapat melihat daftar list section/bagian dan fungsionalitasnya dan juga mengelolanya.
 <img width="938" alt="t4" src="https://user-images.githubusercontent.com/60084323/111366702-6de06080-86c6-11eb-8b9b-321ba144d70b.png">  
-- Selain panel section, ada juga **panel style** yang dapat mengubah style atau tampilan menggunakan css.
+
+- Selain panel section, ada juga **Panel style** yang dapat mengubah style atau tampilan menggunakan format css.
+<img width="941" alt="t5" src="https://user-images.githubusercontent.com/60084323/111366694-6caf3380-86c6-11eb-990c-38c6e665419f.png">
+
+-Selain tab "Presentation" pada textpattern ini terdapat tab "Admin" yang memiliki 7 panel, disini saya akan mengambil contoh **Panel Preferences**. Pada panel preference ini, kita dapat mengatur dan mengkonfigurasikan segala macam hal yang berkaitan dengan admin agar situs dapat bekerja secara baik dan sesuai dengan keinginan.
+
+-Terdapat juga **Panel Plugins** yang berguna untuk menambahkan plugins kedalam situs.
+
 
  
 
