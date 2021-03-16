@@ -130,8 +130,13 @@ Cara pemakaian Textpattern ini sangat mudah, karena aplikasi ini telah menyediak
 <img width="941" alt="t5" src="https://user-images.githubusercontent.com/60084323/111366694-6caf3380-86c6-11eb-990c-38c6e665419f.png">
 
 -Selain tab "Presentation" pada textpattern ini terdapat tab "Admin" yang memiliki 7 panel, disini saya akan mengambil contoh **Panel Preferences**. Pada panel preference ini, kita dapat mengatur dan mengkonfigurasikan segala macam hal yang berkaitan dengan admin agar situs dapat bekerja secara baik dan sesuai dengan keinginan.
+<img width="940" alt="t6admin" src="https://user-images.githubusercontent.com/60084323/111366715-720c7e00-86c6-11eb-8645-9bfadd600e19.png">  
+
+- **Panel Users** yang berguna untuk melihat daftar akun user dan beberapa fungsi agar dapat memanage akun tersebut
+<img width="954" alt="t7admin_user" src="https://user-images.githubusercontent.com/60084323/111366719-73d64180-86c6-11eb-9d09-39c966fe94da.png">  
 
 -Terdapat juga **Panel Plugins** yang berguna untuk menambahkan plugins kedalam situs.
+<img width="953" alt="t8admin_plugin" src="https://user-images.githubusercontent.com/60084323/111366725-75076e80-86c6-11eb-8f4d-2d4ca36c5c8d.png">  
 
 
  
