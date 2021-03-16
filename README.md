@@ -47,11 +47,11 @@
 4. Extract.
     ```
     $ sudo apt-get install unzip
-    $ sudo unzip textpattern-4.8.4.zip -d var/www/html/
+    $ sudo unzip textpattern-4.8.4.zip -d /var/www/html/
     ```
     ##### rename
     
-    ```$ sudo mv var/www/html/textpattern-4.8.4.zip var/www/html/textpattern```
+    ```$ sudo mv var/www/html/textpattern-4.8.4.zip /var/www/html/textpattern```
     
 5. Ubah kepemilikan ke user www-data.
     ```
