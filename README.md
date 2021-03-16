@@ -17,6 +17,8 @@
 # Instalasi
 [`^ kembali ke atas ^`](#)
 
+1. Akses ke dalam server menggunakan SSH. Untuk pengguna Windows dapat menggunakan aplikasi [PuTTY](http://www.putty.org/). Konfigurasi PuTTY dibuat seperti gambar di bawah ini : <h1 align="center"><img src="https://github.com/Bayu3atmojo/Komdat-kel7/blob/main/PuTTY%20Configuration.png"></h1>
+
 #### Kebutuhan Sistem :
 - Unix, Linux atau Windows
 - Apache Web Server 2.4+
