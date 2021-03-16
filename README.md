@@ -1,5 +1,4 @@
 <h1> Aplikasi Web "Microweber" </h1>
-<h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Microweber_-_OpenSource_Drag_%26_Drop_CMS.png"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
@@ -90,6 +89,12 @@
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
+Microweber adalah salah satu sistem Manajemen Konten dan Pembuat Situs Web _(Content Management System and Website Builder)_ dengan lisensi _open-source_. Microweber dibuat dengan bahasa pemrograman 'PHP' dan _framework_ 'Laravel 5'. Aplikasi ini memungkinkan pengguna untuk membuat konten _E-Commerce_ dengan cepat. Aplikasi ini juga memiliki fitur Edit Langsung yang memungkinkan pengguna untuk melihat hasil edit mereka seperti yang akan ditampilkan. Situs ini diluncurkan dalam versi Beta pada April 2015 di Sofia, Bulgaria. Proyek Microweber juga masuk dalam 100 organisasi startup teratas di Eropa untuk 2015/2017/2018, menurut yayasan festival WEBIT. Beberapa kelebihan dari Microweber yaitu :
+- Kemudahan untuk menggunakan _drag & drop_.
+- Admin panel yang _powerfull_.
+- Memiliki fitur _real time editing_ dan _dynamic layout_ yang sangat mempermudah pengguna.
+- Adanya support yang lengkap, baik _community_ atau _premium support_.
+- Platform ini juga memiliki fitur _updates & privacy_ sehingga data pengguna aman.
 
 # Referensi
 [`^ kembali ke atas ^`](#)
