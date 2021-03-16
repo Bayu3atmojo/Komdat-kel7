@@ -11,7 +11,7 @@
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
 
-**Microweber** adalah perangkat lunak untuk membuat situs web "Drag and Drop" dan CMS(*Content Management System*) generasi mendatang yang tangguh. **Microweber** didasarkan pada *Framework* PHP Laravel. Anda dapat menggunakan Microweber untuk membuat segala jenis situs web, toko online, dan blog. Teknologi "Drag and Drop" memungkinkan Anda membangun situs web tanpa pengetahuan teknis apa pun. Teknologi "Drag and Drop" terbaru, dengan fitur Penulisan & Pengeditan Teks Real-Time yang revolusioner. Sepasang fitur ini memberikan pengalaman pengguna yang lebih baik, pengelolaan konten yang lebih mudah dan lebih cepat, lingkungan yang menarik secara visual, dan fleksibilitas.
+**Textpattern** CMS adalah sistem manajemen konten elegan yang gratis dan _open-source_. Desainer web, pengembang, penerbit, dan _blogger_ menyukai fleksibilitas dan ekstensibilitasnya. **TextPattern** memiliki performa yang kuat dan canggih yang dapat disetel tanpa batas agar sesuai dengan jenis situs web apa pun yang dapat Anda bayangkan. Ini memberikan pengalaman pengguna yang lebih baik, pengelolaan konten yang lebih mudah dan lebih cepat, lingkungan yang menarik secara visual, dan fleksibilitas.
 
 
 # Instalasi
@@ -114,11 +114,6 @@ Selain beberapa kelebihan di atas, **TextPattern** juga memiliki beberapa kelema
 
 1. [How to Install PHP 7.3 on Ubuntu 16.04](https://www.rosehosting.com/blog/how-to-install-php-7-3-on-ubuntu-16-04/) - Rose Hosting
 2. [How to Log Into a VPS with PuTTY on Windows](https://www.digitalocean.com/community/tutorials/how-to-log-into-a-vps-with-putty-windows-users) - DigitalOcean
-3. [Kelebihan Microweber](https://www.niagahoster.co.id/blog/cms-laravel-terbaik/#5_Microweber) - Niaga Hoster
-4. [Microweber](https://microweber.com) - Microweber
-5. [Microweber Features](https://microweber.com/features) - Microweber
-
-https://textpattern.com/
-https://id.wikipedia.org/wiki/Textpattern
-https://www.hostinger.co.id/tutorial/alternatif-wordpress#:~:text=Keunggulan%20Textpattern%3A,feed%20konten%20sesuai%20kebutuhan%20mereka.
-
+3. [Kelebihan TextPattern](https://www.hostinger.co.id/tutorial/alternatif-wordpress#:~:text=Keunggulan%20Textpattern%3A,feed%20konten%20sesuai%20kebutuhan%20mereka) - Hostinger
+4. [TextPattern](https://textpattern.com/) - TextPattern
+5. [Wiki TextPattern](https://id.wikipedia.org/wiki/Textpattern) - Wikipedia
