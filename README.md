@@ -18,6 +18,10 @@
 [`^ kembali ke atas ^`](#)
 
 #### Kebutuhan Sistem :
+- Unix, Linux atau Windows
+- Apache Web Server 2.4+
+- PHP 7.3+
+- MySQL 5.0+
 
 #### Proses Instalasi :
 
@@ -109,8 +113,9 @@ Selain beberapa kelebihan di atas, Microweber juga memiliki beberapa kelemahan, 
 # Referensi
 [`^ kembali ke atas ^`](#)
 
-1. [How to Log Into a VPS with PuTTY on Windows](https://www.digitalocean.com/community/tutorials/how-to-log-into-a-vps-with-putty-windows-users) - DigitalOcean
-2. [Kelebihan Microweber](https://www.niagahoster.co.id/blog/cms-laravel-terbaik/#5_Microweber) - Niaga Hoster
-3. [Microweber](https://microweber.com) - Microweber
-4. [Microweber Features](https://microweber.com/features) - Microweber
-5. 
+1. [How to Install PHP 7.3 on Ubuntu 16.04](https://www.rosehosting.com/blog/how-to-install-php-7-3-on-ubuntu-16-04/) - Rose Hosting
+2. [How to Log Into a VPS with PuTTY on Windows](https://www.digitalocean.com/community/tutorials/how-to-log-into-a-vps-with-putty-windows-users) - DigitalOcean
+3. [Kelebihan Microweber](https://www.niagahoster.co.id/blog/cms-laravel-terbaik/#5_Microweber) - Niaga Hoster
+4. [Microweber](https://microweber.com) - Microweber
+5. [Microweber Features](https://microweber.com/features) - Microweber
+6. 
