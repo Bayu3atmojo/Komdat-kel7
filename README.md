@@ -6,14 +6,6 @@
   
   
   
-# 👨‍💻 Anggota
-| First Header  | Nama Anggota |  NIM  |
-| ------------- | ------------ | ----- |
-| 1 | Rinaldy Ansyah Pramana Lubis  | G64180027 |
-| 2 | Habieb Al-Rahman Habiebie Idrus  | G64180043 |
-| 3 | Bayu Tri Atmojo  | G64180092 |
-| 4 | Linggar Asmara  | G64180099 |
-
 
   
 # Sekilas Tentang
@@ -117,8 +109,17 @@
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
+Cara pemakaian Textpattern ini sangat mudah, karena aplikasi ini telah menyediakan interface yang mudah dimengerti. Berikut untuk lebih jelasnya :
+- Login menggunakan akun yang telah dibuat sebelumnya
 
-# Pembahasan
+- Setelah login, kita akan masuk ke halaman Dashboard. Disini kita dapat menulis konten berupa artikel seperti contohnya content organization, date and time, dan lain sebagainya
+![2](https://user-images.githubusercontent.com/74884859/111342444-0cf85e80-86ad-11eb-8496-e2b9209cd6ed.png)
+
+- apabila kita mengklik "article", maka akan keluar tampilan seperti dibawah ini. Tampilan ini digunakan untuk menulis maupun membuat sebuah konten pada textpattern
+![3](https://user-images.githubusercontent.com/74884859/111344239-c60b6880-86ae-11eb-9cd2-c1238b1d82ec.png)
+
+
+
 [`^ kembali ke atas ^`](#)
 
 **Textpattern** adalah salah satu perangkat lunak _Open Source_ berbasis CMS (_Content Management Systems_). Textpattern sering disejajarkan dengan perangkat lunak untuk membangun blog pada umumnya, walaupun tujuan pembangunan awal dari **Textpattern** itu sendiri adalah untuk membuat suatu CMS untuk keperluan umum, yang cocok digunakan untuk berbagai macam kebutuhan. **Textpattern** ditulis dalam bahasa pemprograman `PHP`, dan dilepas ke umum dibawah naungan _GNU General Public License_. Beberapa kelebihan dari **TextPattern** yaitu :
