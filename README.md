@@ -91,9 +91,10 @@
 # Pembahasan
 [`^ kembali ke atas ^`](#)
 
-**Microweber** adalah salah satu sistem Manajemen Konten dan Pembuat Situs Web _(Content Management System and Website Builder)_ dengan lisensi _open-source_. **Microweber** dibuat dengan bahasa pemrograman 'PHP' dan _framework_ 'Laravel 5'. Aplikasi ini memungkinkan pengguna untuk membuat konten _E-Commerce_ dengan cepat. Aplikasi ini juga memiliki fitur Edit Langsung yang memungkinkan pengguna untuk melihat hasil edit mereka seperti yang akan ditampilkan. Situs ini diluncurkan dalam versi Beta pada April 2015 di Sofia, Bulgaria. Proyek Microweber juga masuk dalam 100 organisasi startup teratas di Eropa untuk 2015/2017/2018, menurut yayasan festival WEBIT. Beberapa kelebihan dari Microweber yaitu :
+**Microweber** adalah salah satu sistem Manajemen Konten dan Pembuat Situs Web _(Content Management System and Website Builder)_ dengan lisensi _open-source_. **Microweber** dibuat dengan bahasa pemrograman `PHP` dan _framework_ `Laravel 5`. Aplikasi ini memungkinkan pengguna untuk membuat konten _E-Commerce_ dengan cepat. Aplikasi ini juga memiliki fitur Edit Langsung yang memungkinkan pengguna untuk melihat hasil edit mereka seperti yang akan ditampilkan. Situs ini diluncurkan dalam versi Beta pada April 2015 di Sofia, Bulgaria. Proyek Microweber juga masuk dalam 100 organisasi startup teratas di Eropa untuk 2015/2017/2018, menurut yayasan festival WEBIT. Beberapa kelebihan dari Microweber yaitu :
 - Kemudahan untuk menggunakan _drag & drop_.
 - Admin panel yang _powerfull_.
+- Tersedia untuk versi [**Free Trial_ : $0**](https://members.microweber.com/modules/addons/microweber_addon/order/?plan=19) (14 hari), [**Personal_ : $5**](https://members.microweber.com/modules/addons/microweber_addon/order/?plan=32), [**Premium_ : $10**](https://members.microweber.com/modules/addons/microweber_addon/order/?plan=10), dan [**Business_ : $25**](https://members.microweber.com/modules/addons/microweber_addon/order/?plan=11) dengan tarif per bulan, dan pembayaran dilakukan per tahun.
 - Memiliki fitur _real time editing_ dan _dynamic layout_ yang sangat mempermudah pengguna.
 - Adanya support yang lengkap, baik _community_ atau _premium support_.
 - Dilengkapi fitur _statistics_ agar pengguna dapat melihat _insight_ dan perkembangan dari _website_ mereka.
@@ -103,7 +104,7 @@
 Selain beberapa kelebihan di atas, Microweber juga memiliki beberapa kelemahan, diantaranya :
 - Penggunaan fitur atau modul yang lengkap menyebakan proses loading dari aplikasi ini menjadi sangat lambat.
 - Jika dilihat dari aplikasi sejenis, yaitu [**Prestashop**](https://www.prestashop.com/), modul atau _plugin_ yang dimiliki oleh **Microweber** lebih sedikit.
-- Proses instalasi yang lebih sulit karena selain menggunakan bahasa 'PHP', **Microweber** juga menggunakan framework laravel. 
+- Proses instalasi yang lebih sulit karena selain menggunakan bahasa `PHP`, **Microweber** juga menggunakan framework laravel. 
 
 # Referensi
 [`^ kembali ke atas ^`](#)
