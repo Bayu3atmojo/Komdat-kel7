@@ -1,8 +1,8 @@
 <h1> Aplikasi Web "TextPattern" </h1>
 <h1 align="center"><img src="https://andy-carter.com/files/cache/397/9ff0291dcee547b40660934ec4fceb44/txp.png"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:|:---:
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:
   
   
   
@@ -99,65 +99,12 @@
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
 
-- Bagian **Konfigurasi** dapat diakses dari bilah navigasi Admin dan memungkinkan Anda mengelola dan mengedit pengaturan global situs Anda.
-  ![Settings1](https://user-images.githubusercontent.com/44494446/111302915-83359a80-8686-11eb-950f-623cef1e093c.png)
+- Menambah limit memory menjadi 128 Mb
+  ![memory limit](https://user-images.githubusercontent.com/44494446/111346980-59de3400-86b1-11eb-9cb5-b8a9f8c3d360.png)
   
-  
-- Tab **Situs web** membantu Anda mengoptimalkan situs Anda dengan sebaik-baiknya. Kamu bisa:
-  - Tetapkan nama situs web Anda untuk Search Engine Optimization (SEO) yang lebih baik
-  - Sertakan deskripsi singkat tentang tujuan situs Anda
-  - Sertakan kata kunci Situs Web
-  - Edit pengaturan lain seperti format tanggal, posting per halaman atau zona waktu.
-    ![settings2_1](https://user-images.githubusercontent.com/44494446/111302918-83ce3100-8686-11eb-9749-2bd3d094e123.png)
-   
-   
-- Di **Template**, Anda dapat memilih template kustom dan tata letak halaman situs Anda. Perlu diingat bahwa saat ini kami sedang mengerjakan pengiriman template baru selain dari Microweber default.
-  ![Template_Microweber](https://user-images.githubusercontent.com/44494446/111302924-84ff5e00-8686-11eb-848b-0be19d5fcecb.png)
+- Menambah maksimal ukuran upload file menjadi 16 Mb
+  ![max size](https://user-images.githubusercontent.com/44494446/111346982-5ba7f780-86b1-11eb-8570-50f417219293.png)
 
-
-- Tab **Login and Register** adalah kunci Anda untuk berinteraksi dengan pengguna lain. Jika ingin, Anda dapat menonaktifkan pendaftaran pengguna untuk situs Anda, atau mengizinkan masuk dengan jaringan sosial yang berbeda seperti Facebook, Twitter, Google+, dan lainnya.
-  ![Login_Register](https://user-images.githubusercontent.com/44494446/111302913-83359a80-8686-11eb-9662-dc254a84d35f.png)
-
-
-- Menavigasi melalui tab **E-mail** memungkinkan Anda mengkonfigurasi pengaturan teknis saat mengirim email (penggunaan Server SMTP, fungsi PHP, Gmail, Yahoo atau HotMail). Anda juga dapat menyesuaikan profil Anda sebagai pengirim, memilih nama atau email tertentu yang akan muncul di email yang Anda kirim ke pengunjung atau klien.
-  ![E_mail](https://user-images.githubusercontent.com/44494446/111302905-816bd700-8686-11eb-8f0a-440e355981b3.png)
-
-
-- Jika terjadi sesuatu yang salah dengan situs web Anda, ada tab **Cadangan**. Anda bisa:
-  - Buat cadangan database untuk penggunaan dan keamanan di masa mendatang
-  - Unggah cadangan yang ada jika Anda misalnya kehilangan informasi di situs web Anda
-  - Unduh, Pulihkan, atau Hapus dari daftar dengan cadangan yang tersedia
-  ![Backup](https://user-images.githubusercontent.com/44494446/111302903-816bd700-8686-11eb-9245-12ce1c4fc76c.png)
-
-
-- Tab **Pembaruan** memungkinkan Anda mengetahui apakah situs Anda sudah diperbarui. Jika ada pembaruan sistem, pembaruan tersebut akan muncul di tab ini dan Anda dapat memilih mana yang akan diinstal. Jika Anda sudah mendapatkan informasi terbaru, kotak hijau akan memberi tahu Anda tentang hal ini. Ada juga tombol yang memungkinkan Anda memeriksa pembaruan pada waktu tertentu.
-  ![Updates](https://user-images.githubusercontent.com/44494446/111302893-7fa21380-8686-11eb-82ba-6d0173a45aec.png)
-
-
-- Tab **Toko** Anda memiliki fungsi yang sama dengan sub-bagian Pengaturan di bagian Toko Online Anda. Kamu bisa:
-  - Kelola metode dan penyedia Pembayaran
-  - Atur mata uang yang digunakan di toko online Anda
-  ![Shop](https://user-images.githubusercontent.com/44494446/111302919-8466c780-8686-11eb-8228-8aeef07dd4c5.png)
-  
-
-- Tab **Advanced** benar-benar untuk pengguna tingkat lanjut, jadi berhati-hatilah saat bekerja dengannya. Kamu bisa:
-  - Kosongkan tembolok situs Anda
-  - Lacak log Sistem Anda
-  - Muat ulang database
-  - Masukkan tag kepala khusus.
-  ![Advanced_2](https://user-images.githubusercontent.com/44494446/111302901-80d34080-8686-11eb-9a67-e5a83fc4719c.png)
-
-
--Tab **Bahasa** memungkinkan Anda memilih bahasa untuk antarmuka situs Anda. Anda juga dapat mengedit file bahasa Anda, mengganti nama elemen yang berbeda sesuai pilihan Anda.
-  ![Language](https://user-images.githubusercontent.com/44494446/111302912-829d0400-8686-11eb-9bd4-f3583c5ebdcd.png)
-
-
-
-# Maintenence 
-[`^ kembali ke atas ^`](#)
-
-# Otomatisasi 
-[`^ kembali ke atas ^`](#)
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
