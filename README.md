@@ -70,7 +70,7 @@
 7. Lanjutkan instalasi dengan membuka page localhost:8000/textpattern dan ikuti petunjuk.
       - entah kenapa error. klik aja linknya.
 
-      ![1](https://user-images.githubusercontent.com/74884859/111342429-0a960480-86ad-11eb-8e9e-40fa3392451c.png)
+      ![1](https://user-images.githubusercontent.com/74884859/111351328-a75ca000-86b5-11eb-8411-b9a03388907c.png)
 
       - isi sesuai data yang kita buat pada tahap 6
  
