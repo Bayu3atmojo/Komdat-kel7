@@ -24,7 +24,77 @@
 - MySQL 5.0+
 
 #### Proses Instalasi :
-1. Akses ke dalam server menggunakan SSH. Untuk pengguna Windows dapat menggunakan aplikasi [PuTTY](http://www.putty.org/). Konfigurasi PuTTY dibuat seperti gambar di bawah ini : <h1 align="center"><img src="https://github.com/Bayu3atmojo/Komdat-kel7/blob/main/PuTTY%20Configuration.png"></h1>
+1. Login dengan SSH menggunakan [PuTTY](http://www.putty.org/) untuk windows.
+   
+   ![putty](https://user-images.githubusercontent.com/74884859/111350795-14bc0100-86b5-11eb-8591-ebdcc2cec2d0.png)
+
+2. Update dan Install LAMP (Linux Apache MySQL PHP).
+    ```
+    $ sudo apt-get update
+    $ sudo apt-get install apache2
+    $ sudo apt-get install mysql-server
+    $ sudo apt-get install php
+    $ sudo apt-get install libapache2-mod-php
+    $ sudo apt-get install php-mysql
+    $ sudo apt-get install php-gd php-mcrypt php-mbstring php-xml php-ssh2 php-curl php-zip php-intl
+    ```
+
+3. download TextPattern ke direktori kita. 
+    ```
+    $ wget https://textpattern.com/file_download/107/textpattern-4.8.4.zip
+    ```
+
+4. Extract.
+    ```
+    $ sudo apt-get install unzip
+    $ sudo unzip textpattern-4.8.4.zip -d var/www/html/
+    ```
+    ##### rename
+    
+    ```$ sudo mv var/www/html/textpattern-4.8.4.zip var/www/html/textpattern```
+    
+5. Ubah kepemilikan ke user www-data.
+    ```
+    $ sudo chown -R www-data:www-data /var/www/html/textpattern
+    ```
+
+6. Buat database dan user untuk TextPattern.
+    ```
+    $ mysql -u root -ve "
+        CREATE DATABASE db;
+        CREATE USER user@localhost IDENTIFIED BY 'password';
+        GRANT ALL PRIVILEGES ON db.* TO user@localhost;"
+    ```
+      ##### db, user, dan password bebas
+
+7. Lanjutkan instalasi dengan membuka page localhost:8000/textpattern dan ikuti petunjuk.
+      - entah kenapa error. klik aja linknya.
+
+      ![1](https://user-images.githubusercontent.com/74884859/111342429-0a960480-86ad-11eb-8e9e-40fa3392451c.png)
+
+      - isi sesuai data yang kita buat pada tahap 6
+ 
+      ![2](https://user-images.githubusercontent.com/74884859/111342433-0bc73180-86ad-11eb-860b-ccdb182c571e.png)
+
+      - lalu kita diminta untuk membuat config.php isi seperti berikut
+    
+      ![3](https://user-images.githubusercontent.com/74884859/111342435-0bc73180-86ad-11eb-9837-50fbde829b75.png)
+      
+      ```$ sudo nano /var/www/html/textpattern/textpattern/config.php```
+      ##### Paste kedalam config.php, CTRL+X, pencet Y , lalu Enter. Lanjut dengan menekan tombol "I did it".
+
+      - Isi bebas.
+
+      ![4](https://user-images.githubusercontent.com/74884859/111343950-817fcd00-86ae-11eb-9ece-be3fa8f4174a.png)
+
+      - Isi sesuai login name dan password
+
+      ![5](https://user-images.githubusercontent.com/74884859/111344799-4c27af00-86af-11eb-9a98-666507b9864d.png)
+    
+      - TextPattern siap dipakai
+
+      ![6](https://user-images.githubusercontent.com/74884859/111342444-0cf85e80-86ad-11eb-8496-e2b9209cd6ed.png)
+      ![7](https://user-images.githubusercontent.com/74884859/111344239-c60b6880-86ae-11eb-9cd2-c1238b1d82ec.png)
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
