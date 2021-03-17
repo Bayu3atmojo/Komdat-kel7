@@ -109,6 +109,7 @@
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
+
 Cara pemakaian Textpattern ini sangat mudah, karena aplikasi ini telah menyediakan interface yang mudah dimengerti. Berikut untuk lebih jelasnya :  
 
 - Login menggunakan akun yang telah dibuat sebelumnya  
@@ -137,9 +138,6 @@ Cara pemakaian Textpattern ini sangat mudah, karena aplikasi ini telah menyediak
 
 -Terdapat juga **Panel Plugins** yang berguna untuk menambahkan plugins kedalam situs.
 <img width="953" alt="t8admin_plugin" src="https://user-images.githubusercontent.com/60084323/111366725-75076e80-86c6-11eb-8f4d-2d4ca36c5c8d.png">  
-
-
- 
 
 
 # Pembahasan
