@@ -20,7 +20,7 @@
 #### Kebutuhan Sistem :
 - Unix, Linux atau Windows
 - Apache Web Server 2.4+
-- PHP 7.3+
+- PHP 5.6+
 - MySQL 5.0+
 
 #### Proses Instalasi :
@@ -160,8 +160,7 @@ Selain beberapa kelebihan di atas, **TextPattern** juga memiliki beberapa kelema
 # Referensi
 [`^ kembali ke atas ^`](#)
 
-1. [How to Install PHP 7.3 on Ubuntu 16.04](https://www.rosehosting.com/blog/how-to-install-php-7-3-on-ubuntu-16-04/) - Rose Hosting
-2. [How to Log Into a VPS with PuTTY on Windows](https://www.digitalocean.com/community/tutorials/how-to-log-into-a-vps-with-putty-windows-users) - DigitalOcean
-3. [Kelebihan TextPattern](https://www.hostinger.co.id/tutorial/alternatif-wordpress#:~:text=Keunggulan%20Textpattern%3A,feed%20konten%20sesuai%20kebutuhan%20mereka) - Hostinger
-4. [TextPattern](https://textpattern.com/) - TextPattern
-5. [Wiki TextPattern](https://id.wikipedia.org/wiki/Textpattern) - Wikipedia
+1. [How to Log Into a VPS with PuTTY on Windows](https://www.digitalocean.com/community/tutorials/how-to-log-into-a-vps-with-putty-windows-users) - DigitalOcean
+2. [Kelebihan TextPattern](https://www.hostinger.co.id/tutorial/alternatif-wordpress#:~:text=Keunggulan%20Textpattern%3A,feed%20konten%20sesuai%20kebutuhan%20mereka) - Hostinger
+3. [TextPattern](https://textpattern.com/) - TextPattern
+4. [Wiki TextPattern](https://id.wikipedia.org/wiki/Textpattern) - Wikipedia
